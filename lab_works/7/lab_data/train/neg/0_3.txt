@@ -1,0 +1,1 @@
+The store neglects to update its inventory, leading to frequent disappointments when desired books are unavailable.
