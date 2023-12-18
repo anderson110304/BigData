@@ -1,0 +1,501 @@
+salary,city,age,vacation_prefer,transport_prefer,target
+60392,Deli,36,Sport,auto,Mumbai
+43424,Moscow,61,Computer games,cruise,Shanhai
+72363,Pekin,49,Reading,boat,Saint-Petersburg
+63908,Moscow,32,Sleeping,auto,Rosario
+87977,Washington,39,Sport,train,Shanhai
+80738,Brazilia,45,Movie,boat,Rosario
+58235,Deli,48,Computer games,train,Saint-Petersburg
+85379,Buenos-Aires,52,Reading,train,Toronto
+51357,Buenos-Aires,65,Movie,boat,Sydney
+99373,Moscow,56,Reading,boat,Rio
+39874,Moscow,58,Karaoke,train,Rosario
+88875,Moscow,49,Sleeping,boat,Toronto
+32564,Canberra,41,Sleeping,auto,Rio
+38200,Buenos-Aires,32,Karaoke,train,New York
+69881,Pekin,37,Sleeping,cruise,Shanhai
+88057,Canberra,41,Cooking,auto,Toronto
+32499,Washington,43,Sport,auto,Saint-Petersburg
+91442,Deli,61,Reading,plane,Shanhai
+88387,Washington,44,Sport,train,New York
+75725,Brazilia,56,Walking,train,Saint-Petersburg
+70050,Astana,46,Computer games,cruise,Toronto
+40880,Buenos-Aires,40,Karaoke,auto,Saint-Petersburg
+46253,Astana,43,Computer games,plane,Shanhai
+53344,Moscow,54,Karaoke,plane,Rio
+68580,Moscow,49,Sport,train,Sydney
+38802,Washington,45,Computer games,plane,Shanhai
+33613,Moscow,46,Movie,cruise,Rio
+58515,Brazilia,48,Movie,boat,Rosario
+89502,Brazilia,44,Sleeping,auto,Mumbai
+97171,Buenos-Aires,48,Walking,auto,Shanhai
+38883,Buenos-Aires,55,Movie,plane,Sydney
+40563,Canberra,39,Movie,auto,Rosario
+45296,Washington,33,Reading,plane,Toronto
+56332,Canberra,65,Walking,auto,Mumbai
+53621,Brazilia,51,Reading,auto,Rio
+69697,Astana,56,Walking,plane,Shanhai
+94798,Brazilia,33,Cooking,cruise,Rio
+33713,Buenos-Aires,38,Sleeping,train,Mumbai
+60256,Pekin,52,Reading,boat,Shanhai
+46482,Brazilia,59,Sleeping,auto,Saint-Petersburg
+31737,Deli,63,Karaoke,plane,Toronto
+31440,Pekin,57,Computer games,cruise,Shanhai
+81041,Astana,45,Cooking,plane,Rio
+79421,Buenos-Aires,41,Karaoke,plane,New York
+70561,Brazilia,61,Karaoke,plane,Saint-Petersburg
+63904,Astana,35,Movie,auto,Mumbai
+64466,Pekin,48,Sport,train,Mumbai
+78941,Washington,36,Sport,auto,Rio
+82945,Pekin,30,Computer games,auto,New York
+83136,Ottava,47,Cooking,train,Toronto
+50126,Astana,62,Walking,train,Toronto
+69279,Deli,54,Cooking,plane,Rosario
+52010,Astana,39,Sleeping,plane,Sydney
+42511,Washington,36,Reading,auto,Saint-Petersburg
+99929,Ottava,30,Karaoke,plane,Sydney
+61238,Astana,41,Computer games,boat,New York
+77011,Astana,36,Reading,plane,Saint-Petersburg
+94946,Ottava,52,Sleeping,auto,Saint-Petersburg
+39084,Moscow,35,Karaoke,auto,Saint-Petersburg
+86898,Brazilia,38,Reading,plane,Sydney
+32662,Canberra,53,Sport,train,Saint-Petersburg
+36639,Deli,43,Walking,auto,Toronto
+62559,Astana,46,Computer games,cruise,Mumbai
+98912,Moscow,34,Cooking,plane,Saint-Petersburg
+56389,Pekin,59,Sport,plane,Shanhai
+50472,Deli,59,Sleeping,cruise,New York
+70547,Deli,43,Computer games,auto,Rio
+59043,Astana,32,Sport,plane,Mumbai
+79083,Pekin,38,Cooking,plane,New York
+63398,Moscow,52,Cooking,cruise,Mumbai
+30885,Brazilia,65,Sport,boat,Saint-Petersburg
+89165,Astana,45,Karaoke,train,Rosario
+92750,Washington,58,Walking,boat,Saint-Petersburg
+86673,Buenos-Aires,33,Reading,train,Saint-Petersburg
+64612,Buenos-Aires,57,Sleeping,boat,Shanhai
+47883,Washington,63,Movie,auto,Shanhai
+62526,Brazilia,37,Reading,auto,Saint-Petersburg
+64042,Buenos-Aires,30,Sleeping,boat,Rosario
+46818,Deli,47,Computer games,boat,Mumbai
+85593,Astana,64,Computer games,plane,Saint-Petersburg
+83813,Moscow,45,Sleeping,boat,Mumbai
+44476,Deli,46,Cooking,cruise,Shanhai
+89871,Deli,37,Sleeping,cruise,New York
+47264,Ottava,55,Sport,boat,Saint-Petersburg
+35979,Washington,58,Computer games,auto,Mumbai
+49249,Washington,54,Karaoke,boat,Saint-Petersburg
+85379,Washington,57,Sport,auto,New York
+40357,Buenos-Aires,38,Sport,cruise,New York
+93106,Canberra,51,Movie,plane,Rosario
+92033,Moscow,65,Reading,auto,Sydney
+72234,Ottava,40,Cooking,cruise,New York
+74040,Canberra,46,Sleeping,plane,Shanhai
+90977,Pekin,64,Movie,auto,Rosario
+51149,Moscow,34,Computer games,boat,New York
+30434,Astana,58,Sport,train,Mumbai
+82648,Deli,32,Computer games,plane,Rio
+51328,Washington,45,Karaoke,boat,Toronto
+77081,Buenos-Aires,41,Reading,auto,Saint-Petersburg
+77254,Canberra,63,Computer games,auto,Toronto
+75878,Moscow,41,Cooking,boat,Saint-Petersburg
+38455,Moscow,49,Sleeping,cruise,New York
+94672,Deli,33,Movie,cruise,Shanhai
+89391,Ottava,33,Sport,plane,Mumbai
+49906,Canberra,65,Sport,boat,Sydney
+77391,Ottava,34,Reading,plane,Rio
+80678,Buenos-Aires,39,Movie,auto,Toronto
+39251,Astana,41,Walking,train,Saint-Petersburg
+65909,Washington,37,Sport,boat,Saint-Petersburg
+59466,Washington,35,Sleeping,train,Mumbai
+45268,Pekin,39,Cooking,boat,Shanhai
+87792,Moscow,50,Reading,auto,Rosario
+50874,Buenos-Aires,42,Sport,cruise,Mumbai
+86947,Washington,40,Sport,auto,Shanhai
+98293,Pekin,65,Computer games,train,Saint-Petersburg
+55979,Washington,64,Cooking,auto,Rosario
+60007,Pekin,56,Sport,cruise,Rosario
+45225,Moscow,35,Reading,train,Sydney
+93979,Deli,34,Reading,cruise,Rio
+95451,Pekin,54,Karaoke,plane,New York
+90801,Astana,46,Karaoke,train,Sydney
+69741,Buenos-Aires,45,Cooking,auto,Sydney
+46277,Pekin,43,Walking,auto,Shanhai
+44057,Ottava,33,Sport,cruise,Mumbai
+71593,Canberra,62,Reading,plane,New York
+49242,Ottava,45,Cooking,plane,Rio
+74977,Astana,48,Walking,cruise,Mumbai
+58613,Buenos-Aires,64,Sleeping,auto,Saint-Petersburg
+83493,Pekin,52,Computer games,plane,Toronto
+68818,Astana,58,Cooking,plane,Rio
+67433,Ottava,39,Reading,train,Shanhai
+41406,Astana,30,Karaoke,train,Mumbai
+60982,Ottava,46,Sport,train,Rosario
+77233,Brazilia,30,Movie,train,Saint-Petersburg
+77772,Canberra,31,Sleeping,plane,Saint-Petersburg
+52984,Pekin,33,Cooking,plane,Rio
+58370,Brazilia,58,Karaoke,boat,Toronto
+44744,Astana,65,Reading,train,New York
+42001,Moscow,40,Sport,boat,Saint-Petersburg
+46681,Astana,45,Walking,plane,Rio
+56441,Moscow,57,Computer games,cruise,Rosario
+57343,Ottava,38,Reading,boat,New York
+89838,Brazilia,46,Computer games,plane,Rosario
+32409,Pekin,54,Sport,train,Rosario
+45516,Pekin,53,Karaoke,plane,Saint-Petersburg
+79412,Pekin,59,Sleeping,plane,Saint-Petersburg
+75701,Pekin,58,Walking,plane,Saint-Petersburg
+34287,Ottava,52,Sport,train,New York
+63046,Buenos-Aires,51,Sport,auto,Mumbai
+33835,Astana,32,Reading,auto,Toronto
+36654,Canberra,54,Cooking,cruise,Shanhai
+78142,Canberra,65,Sleeping,cruise,Mumbai
+73022,Canberra,45,Sleeping,boat,Mumbai
+44026,Canberra,31,Walking,auto,Shanhai
+38265,Brazilia,31,Cooking,train,Rosario
+82806,Deli,47,Reading,auto,Rio
+52044,Washington,65,Walking,cruise,Saint-Petersburg
+72445,Deli,42,Sport,auto,Sydney
+64572,Deli,60,Walking,cruise,Toronto
+85073,Deli,54,Movie,auto,Mumbai
+72496,Moscow,58,Sport,train,Saint-Petersburg
+64491,Buenos-Aires,52,Movie,auto,Sydney
+46558,Moscow,55,Cooking,plane,Rosario
+33458,Brazilia,50,Karaoke,cruise,Mumbai
+78723,Pekin,46,Sleeping,plane,Sydney
+94007,Buenos-Aires,30,Reading,auto,Saint-Petersburg
+80668,Moscow,30,Sport,boat,Shanhai
+49375,Washington,56,Reading,auto,Saint-Petersburg
+42707,Ottava,52,Sleeping,plane,Rio
+63746,Moscow,51,Sport,auto,Sydney
+84845,Pekin,43,Movie,auto,Rosario
+78512,Canberra,49,Movie,plane,Shanhai
+86556,Brazilia,50,Reading,boat,Saint-Petersburg
+86619,Canberra,49,Reading,boat,Sydney
+92391,Moscow,50,Karaoke,train,Rosario
+59171,Astana,33,Walking,plane,Shanhai
+91144,Ottava,39,Walking,plane,Toronto
+68750,Moscow,39,Computer games,boat,Toronto
+96001,Pekin,34,Computer games,train,Saint-Petersburg
+61352,Astana,53,Reading,cruise,Rio
+83890,Moscow,44,Walking,plane,Sydney
+34296,Deli,61,Cooking,auto,Saint-Petersburg
+64179,Ottava,38,Sport,cruise,Saint-Petersburg
+61083,Canberra,36,Reading,train,Toronto
+63400,Deli,52,Walking,train,Rosario
+74694,Brazilia,42,Sport,plane,Rio
+56010,Astana,32,Karaoke,cruise,Shanhai
+30634,Pekin,55,Walking,plane,New York
+39825,Buenos-Aires,41,Sleeping,boat,Toronto
+72770,Pekin,50,Computer games,auto,New York
+48321,Washington,48,Computer games,train,Shanhai
+37650,Ottava,46,Reading,boat,Mumbai
+43087,Buenos-Aires,45,Karaoke,plane,Toronto
+75352,Washington,30,Computer games,auto,Toronto
+40444,Brazilia,41,Karaoke,cruise,Saint-Petersburg
+58672,Canberra,60,Sleeping,plane,Rio
+41910,Washington,36,Sleeping,train,Shanhai
+53902,Pekin,63,Sleeping,auto,Shanhai
+73531,Pekin,42,Movie,plane,Saint-Petersburg
+68586,Ottava,39,Sleeping,plane,Sydney
+47745,Astana,43,Cooking,boat,New York
+90126,Astana,33,Sleeping,train,Mumbai
+46206,Deli,65,Walking,boat,Toronto
+79017,Buenos-Aires,47,Walking,train,Mumbai
+62919,Ottava,54,Karaoke,boat,Sydney
+50649,Brazilia,40,Walking,cruise,New York
+89646,Buenos-Aires,39,Sport,cruise,New York
+38286,Ottava,52,Cooking,train,Rosario
+77626,Ottava,58,Reading,plane,Rio
+34542,Deli,42,Cooking,auto,Mumbai
+99990,Deli,42,Sleeping,plane,Rio
+80187,Pekin,39,Movie,plane,Toronto
+98828,Astana,64,Sleeping,boat,Sydney
+83461,Astana,47,Computer games,cruise,Toronto
+61931,Astana,58,Sport,plane,Rosario
+89568,Pekin,53,Walking,boat,Rosario
+62111,Deli,33,Walking,train,Shanhai
+48643,Deli,48,Sport,cruise,Mumbai
+91595,Washington,38,Walking,train,Sydney
+41379,Deli,31,Reading,cruise,Mumbai
+58934,Ottava,63,Computer games,train,Rosario
+98464,Brazilia,59,Walking,train,New York
+30605,Brazilia,38,Reading,cruise,Sydney
+38176,Canberra,43,Karaoke,boat,Rosario
+62608,Washington,48,Movie,cruise,Saint-Petersburg
+81999,Pekin,32,Karaoke,boat,Rio
+76867,Brazilia,40,Sleeping,boat,Rosario
+32483,Moscow,60,Karaoke,plane,Rosario
+44436,Brazilia,40,Sport,boat,New York
+32059,Pekin,52,Walking,train,Mumbai
+41773,Ottava,56,Movie,auto,Rosario
+71288,Ottava,38,Movie,plane,New York
+32905,Pekin,32,Sport,boat,Mumbai
+62186,Pekin,31,Sleeping,train,Rio
+77014,Washington,50,Sport,train,Shanhai
+74910,Pekin,43,Reading,cruise,New York
+88698,Astana,44,Cooking,plane,Sydney
+40774,Brazilia,45,Karaoke,cruise,Shanhai
+99501,Brazilia,50,Reading,train,New York
+87880,Buenos-Aires,62,Karaoke,boat,Shanhai
+70459,Moscow,47,Sleeping,plane,Rosario
+74051,Buenos-Aires,39,Sleeping,auto,Rio
+50952,Deli,42,Sleeping,boat,Rio
+51822,Pekin,44,Cooking,train,Sydney
+67846,Ottava,44,Movie,cruise,Mumbai
+85936,Astana,36,Karaoke,boat,New York
+98754,Astana,35,Cooking,cruise,New York
+95203,Canberra,34,Walking,train,Saint-Petersburg
+99395,Canberra,36,Cooking,cruise,Toronto
+75256,Deli,44,Karaoke,train,Rosario
+81180,Brazilia,47,Karaoke,cruise,Rosario
+62264,Canberra,32,Movie,plane,New York
+92519,Brazilia,61,Reading,boat,Rio
+46633,Canberra,30,Karaoke,cruise,New York
+32739,Buenos-Aires,55,Reading,plane,New York
+96886,Pekin,33,Reading,plane,Rio
+77237,Brazilia,38,Walking,train,Sydney
+84333,Ottava,53,Computer games,boat,Saint-Petersburg
+99397,Astana,56,Karaoke,cruise,Rio
+67617,Ottava,62,Sleeping,plane,Toronto
+71210,Washington,53,Walking,boat,Toronto
+67407,Canberra,46,Movie,boat,Toronto
+58152,Astana,37,Walking,auto,Rio
+69768,Buenos-Aires,63,Sleeping,boat,Rio
+98936,Buenos-Aires,62,Sleeping,plane,Saint-Petersburg
+62137,Canberra,37,Karaoke,boat,New York
+53940,Canberra,52,Reading,plane,Sydney
+57232,Canberra,40,Karaoke,auto,Rosario
+79121,Ottava,43,Karaoke,auto,Rio
+91481,Brazilia,51,Karaoke,cruise,Mumbai
+32144,Canberra,50,Sleeping,auto,Sydney
+39630,Astana,54,Reading,auto,Toronto
+36266,Washington,60,Computer games,plane,Sydney
+74974,Washington,39,Reading,auto,Sydney
+88892,Washington,52,Computer games,train,New York
+46801,Brazilia,65,Sport,cruise,Saint-Petersburg
+73209,Ottava,61,Walking,plane,Rio
+96019,Deli,40,Reading,plane,New York
+80001,Moscow,56,Walking,plane,Mumbai
+79780,Canberra,64,Sleeping,auto,Sydney
+49800,Pekin,37,Sport,boat,Rio
+34514,Astana,41,Walking,train,Rosario
+80688,Brazilia,52,Movie,boat,Rio
+92943,Washington,54,Sleeping,plane,Shanhai
+75840,Astana,50,Reading,auto,Mumbai
+83443,Moscow,32,Computer games,cruise,New York
+68568,Ottava,63,Computer games,boat,Saint-Petersburg
+49302,Buenos-Aires,38,Computer games,plane,Shanhai
+87883,Deli,45,Karaoke,plane,Rio
+94030,Washington,62,Cooking,cruise,New York
+93646,Moscow,55,Karaoke,cruise,Mumbai
+50306,Canberra,33,Walking,train,Toronto
+55286,Deli,65,Karaoke,boat,Mumbai
+42827,Astana,55,Sport,plane,Rio
+35704,Buenos-Aires,54,Walking,plane,New York
+68674,Brazilia,54,Sport,boat,Toronto
+82807,Brazilia,52,Reading,cruise,Sydney
+48007,Brazilia,65,Sleeping,boat,Sydney
+30881,Pekin,44,Reading,cruise,Rosario
+85885,Astana,54,Sport,train,Shanhai
+75675,Moscow,64,Reading,auto,Toronto
+34550,Pekin,43,Cooking,boat,Rosario
+74204,Deli,34,Reading,train,Rio
+67879,Washington,48,Movie,boat,New York
+62294,Brazilia,61,Sport,auto,Saint-Petersburg
+35740,Washington,46,Karaoke,boat,New York
+65088,Brazilia,54,Walking,train,Saint-Petersburg
+75826,Brazilia,39,Reading,plane,Rio
+31581,Deli,49,Karaoke,cruise,Rosario
+82897,Astana,37,Computer games,plane,New York
+56232,Ottava,40,Computer games,auto,Toronto
+45842,Washington,52,Sport,train,Rosario
+60550,Buenos-Aires,57,Sleeping,cruise,Rosario
+96884,Washington,34,Movie,auto,Sydney
+88984,Brazilia,45,Cooking,plane,Shanhai
+83898,Moscow,59,Reading,train,Sydney
+63369,Canberra,33,Computer games,plane,Mumbai
+99384,Deli,58,Karaoke,auto,Toronto
+31832,Pekin,45,Walking,plane,Rio
+69727,Deli,41,Cooking,plane,New York
+69493,Canberra,46,Reading,plane,Sydney
+76703,Buenos-Aires,43,Karaoke,train,New York
+84146,Buenos-Aires,39,Reading,boat,Toronto
+73948,Astana,39,Movie,plane,Rio
+63250,Buenos-Aires,63,Computer games,plane,Toronto
+42263,Moscow,59,Sleeping,boat,Rio
+30736,Pekin,40,Reading,train,Toronto
+41328,Deli,64,Reading,train,Sydney
+69489,Brazilia,38,Reading,boat,Shanhai
+41984,Pekin,61,Cooking,boat,Rio
+83162,Pekin,36,Reading,plane,Toronto
+49438,Canberra,47,Karaoke,cruise,Toronto
+66086,Pekin,65,Karaoke,auto,Rosario
+95005,Ottava,59,Walking,cruise,Mumbai
+84508,Deli,36,Sport,boat,Mumbai
+40622,Astana,50,Walking,plane,Rio
+53396,Pekin,35,Cooking,train,Mumbai
+50954,Brazilia,51,Computer games,auto,Rio
+74243,Deli,59,Sleeping,auto,New York
+95371,Astana,58,Computer games,cruise,New York
+91921,Washington,45,Walking,auto,Rosario
+89281,Astana,61,Movie,auto,Rosario
+72833,Moscow,42,Walking,train,Toronto
+49839,Buenos-Aires,56,Karaoke,auto,Mumbai
+36275,Pekin,46,Sleeping,train,New York
+76215,Deli,46,Cooking,cruise,Shanhai
+42731,Pekin,36,Walking,train,Shanhai
+97569,Brazilia,52,Cooking,cruise,Toronto
+84030,Moscow,63,Computer games,plane,Toronto
+66373,Deli,32,Karaoke,auto,New York
+51678,Buenos-Aires,37,Cooking,train,Toronto
+84897,Canberra,63,Reading,plane,Rosario
+59527,Buenos-Aires,49,Karaoke,plane,Shanhai
+85280,Buenos-Aires,64,Cooking,cruise,Shanhai
+57031,Pekin,48,Computer games,train,Sydney
+79485,Pekin,50,Cooking,auto,New York
+95302,Brazilia,55,Movie,boat,Rosario
+47835,Buenos-Aires,65,Walking,boat,New York
+68965,Astana,34,Sport,boat,Toronto
+99959,Ottava,35,Sleeping,train,Saint-Petersburg
+67246,Ottava,56,Cooking,train,Rio
+80921,Deli,40,Reading,train,Rio
+76087,Brazilia,45,Movie,plane,Rosario
+82092,Buenos-Aires,32,Reading,train,Sydney
+51961,Deli,62,Reading,cruise,Saint-Petersburg
+70798,Pekin,38,Sport,auto,New York
+43447,Brazilia,41,Computer games,train,Mumbai
+51646,Deli,37,Computer games,plane,Rosario
+66283,Washington,30,Sport,boat,Rio
+48901,Canberra,42,Walking,cruise,New York
+84080,Pekin,53,Cooking,cruise,Shanhai
+82890,Moscow,43,Sleeping,plane,Rio
+39396,Buenos-Aires,48,Computer games,cruise,Rosario
+36014,Brazilia,64,Movie,cruise,Rio
+71837,Deli,62,Reading,train,Shanhai
+82361,Canberra,56,Walking,cruise,Rio
+81463,Washington,37,Sport,cruise,Rosario
+65591,Moscow,38,Karaoke,plane,Mumbai
+85258,Deli,47,Cooking,boat,Mumbai
+38308,Deli,58,Karaoke,boat,Rio
+67896,Moscow,46,Movie,auto,New York
+31578,Buenos-Aires,42,Sport,boat,Sydney
+69045,Brazilia,44,Karaoke,plane,Rio
+91424,Astana,56,Movie,boat,Saint-Petersburg
+42382,Washington,35,Karaoke,boat,Mumbai
+93335,Buenos-Aires,47,Karaoke,cruise,New York
+84932,Buenos-Aires,37,Walking,train,Toronto
+89761,Ottava,41,Computer games,plane,Sydney
+96399,Buenos-Aires,50,Computer games,auto,Rosario
+74805,Canberra,44,Karaoke,auto,Saint-Petersburg
+36393,Brazilia,58,Sleeping,plane,Sydney
+56624,Deli,40,Walking,cruise,Sydney
+49137,Astana,65,Walking,plane,Mumbai
+32512,Astana,43,Computer games,auto,Sydney
+82597,Buenos-Aires,54,Karaoke,train,Shanhai
+98331,Moscow,53,Movie,train,Rio
+88201,Moscow,55,Sleeping,cruise,Shanhai
+75263,Pekin,60,Sport,auto,New York
+76042,Pekin,61,Cooking,train,Saint-Petersburg
+80463,Ottava,40,Sport,cruise,Saint-Petersburg
+63394,Brazilia,50,Sport,boat,Sydney
+82585,Astana,39,Karaoke,plane,Sydney
+64665,Canberra,31,Computer games,auto,Rio
+90358,Washington,64,Karaoke,train,Rosario
+53548,Astana,32,Karaoke,cruise,Shanhai
+69281,Canberra,60,Sleeping,cruise,Rosario
+34188,Pekin,45,Walking,auto,Mumbai
+76849,Washington,33,Sleeping,train,Sydney
+55594,Washington,37,Reading,auto,Mumbai
+87445,Canberra,55,Sleeping,boat,Saint-Petersburg
+87999,Pekin,50,Karaoke,plane,Saint-Petersburg
+91563,Astana,63,Karaoke,train,New York
+53125,Deli,57,Sport,cruise,Mumbai
+74711,Ottava,51,Sleeping,boat,Shanhai
+58197,Astana,64,Cooking,auto,New York
+81330,Washington,33,Sleeping,plane,Toronto
+56806,Deli,60,Movie,plane,Shanhai
+85607,Moscow,60,Walking,boat,Mumbai
+68514,Astana,46,Walking,auto,Rio
+82816,Washington,63,Reading,train,Toronto
+68332,Deli,62,Reading,cruise,New York
+77763,Astana,62,Cooking,cruise,Rosario
+69972,Astana,62,Sleeping,cruise,Rosario
+57783,Brazilia,46,Karaoke,train,Rosario
+30596,Canberra,47,Karaoke,train,Mumbai
+80980,Canberra,63,Reading,train,Sydney
+39424,Washington,60,Cooking,auto,Shanhai
+61779,Pekin,43,Cooking,boat,Toronto
+93870,Deli,46,Reading,cruise,Shanhai
+40103,Deli,63,Sport,plane,Rio
+92501,Canberra,64,Reading,auto,Rio
+93627,Canberra,57,Walking,auto,Saint-Petersburg
+31002,Moscow,50,Karaoke,train,Rosario
+61881,Canberra,61,Walking,auto,Rio
+91964,Astana,59,Sport,boat,Shanhai
+60406,Pekin,54,Sport,plane,Toronto
+52686,Canberra,56,Karaoke,train,Rosario
+93529,Canberra,57,Computer games,boat,Mumbai
+30917,Brazilia,52,Cooking,auto,Rosario
+42454,Moscow,51,Movie,cruise,Toronto
+92041,Ottava,51,Karaoke,plane,Saint-Petersburg
+62314,Washington,58,Walking,cruise,Shanhai
+58520,Ottava,48,Sport,cruise,New York
+40643,Canberra,59,Karaoke,train,Toronto
+34738,Brazilia,61,Computer games,auto,New York
+83600,Canberra,31,Karaoke,boat,Rio
+93871,Buenos-Aires,37,Sleeping,boat,Rosario
+59830,Pekin,30,Reading,cruise,Toronto
+71121,Moscow,65,Sport,cruise,Mumbai
+79332,Ottava,52,Sport,plane,Toronto
+30498,Deli,40,Reading,plane,Sydney
+98395,Buenos-Aires,31,Sport,plane,New York
+41967,Buenos-Aires,65,Karaoke,plane,New York
+59632,Brazilia,55,Reading,plane,Rio
+73636,Moscow,65,Walking,cruise,Rio
+90229,Pekin,41,Computer games,auto,Sydney
+83527,Washington,35,Sport,boat,Toronto
+83974,Washington,56,Sleeping,boat,Sydney
+63218,Ottava,38,Sport,auto,Sydney
+48673,Astana,50,Movie,boat,Sydney
+74372,Canberra,35,Sport,auto,Rio
+53377,Deli,50,Movie,boat,Shanhai
+40658,Washington,56,Karaoke,train,New York
+49000,Pekin,38,Reading,cruise,Shanhai
+96685,Buenos-Aires,55,Computer games,cruise,Sydney
+40261,Moscow,33,Sleeping,cruise,Sydney
+39073,Washington,41,Walking,auto,Sydney
+42696,Moscow,54,Walking,boat,Rosario
+32525,Buenos-Aires,55,Movie,cruise,New York
+41830,Washington,33,Sleeping,cruise,Rosario
+69726,Moscow,56,Sport,plane,Rosario
+56678,Washington,34,Computer games,train,Rio
+45805,Ottava,59,Computer games,cruise,Saint-Petersburg
+58812,Buenos-Aires,41,Cooking,plane,Toronto
+38140,Pekin,64,Sport,cruise,Toronto
+87903,Deli,40,Reading,auto,Saint-Petersburg
+33088,Buenos-Aires,57,Cooking,plane,Saint-Petersburg
+96877,Moscow,39,Computer games,cruise,Rosario
+88223,Buenos-Aires,36,Karaoke,auto,Saint-Petersburg
+89147,Brazilia,44,Cooking,train,Rosario
+98571,Pekin,55,Reading,train,Rio
+72620,Ottava,31,Karaoke,cruise,Rosario
+62287,Washington,33,Sleeping,boat,Toronto
+51154,Canberra,46,Walking,plane,Rosario
+78475,Deli,47,Walking,cruise,Rio
+68945,Washington,63,Sport,auto,Rosario
+55619,Washington,62,Reading,train,Rio
+94457,Buenos-Aires,35,Reading,boat,Rio
+36598,Canberra,30,Sleeping,plane,Rosario
+41070,Pekin,65,Karaoke,cruise,Toronto
+42122,Washington,55,Computer games,plane,Toronto
+52195,Buenos-Aires,64,Computer games,cruise,Rio
+30166,Ottava,62,Karaoke,cruise,New York
+46777,Canberra,61,Walking,plane,Sydney
+32205,Ottava,38,Computer games,boat,Rosario
+43918,Washington,40,Reading,train,Shanhai
+96842,Ottava,46,Walking,plane,Mumbai
+59910,Ottava,46,Sport,train,Sydney
+41308,Washington,62,Reading,auto,Mumbai
+76633,Astana,65,Karaoke,boat,Sydney
+40089,Deli,30,Karaoke,cruise,Rosario
